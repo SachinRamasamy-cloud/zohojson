@@ -1,0 +1,931 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Audi A6",
+      "price": 50000,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Cars",
+      "user": null
+    },
+    {
+      "id": 2,
+      "name": "BMW 3 Series",
+      "price": 45000,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Cars",
+      "user": null
+    },
+    {
+      "id": 3,
+      "name": "Mercedes C-Class",
+      "price": 55000,
+      "image": "",
+      "location": "Delhi",
+      "category": "Cars",
+      "user": null
+    },
+    {
+      "id": 4,
+      "name": "Toyota Corolla",
+      "price": 30000,
+      "image": "",
+      "location": "Chennai",
+      "category": "Cars",
+      "user": null
+    },
+    {
+      "id": 5,
+      "name": "Honda Civic",
+      "price": 32000,
+      "image": "",
+      "location": "Hyderabad",
+      "category": "Cars",
+      "user": null
+    },
+    {
+      "id": 6,
+      "name": "Ford Mustang",
+      "price": 60000,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Cars",
+      "user": null
+    },
+    {
+      "id": 7,
+      "name": "Tesla Model 3",
+      "price": 70000,
+      "image": "",
+      "location": "Pune",
+      "category": "Cars",
+      "user": null
+    },
+    {
+      "id": 8,
+      "name": "Jaguar XF",
+      "price": 65000,
+      "image": "",
+      "location": "Kolkata",
+      "category": "Cars",
+      "user": null
+    },
+    {
+      "id": 9,
+      "name": "Volkswagen Passat",
+      "price": 40000,
+      "image": "",
+      "location": "Delhi",
+      "category": "Cars",
+      "user": null
+    },
+    {
+      "id": 10,
+      "name": "Hyundai Elantra",
+      "price": 28000,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Cars",
+      "user": null
+    },
+    {
+      "id": 11,
+      "name": "iPhone 15",
+      "price": 1200,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Mobiles",
+      "user": null
+    },
+    {
+      "id": 12,
+      "name": "Samsung Galaxy S23",
+      "price": 1000,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Mobiles",
+      "user": null
+    },
+    {
+      "id": 13,
+      "name": "OnePlus 11",
+      "price": 800,
+      "image": "",
+      "location": "Delhi",
+      "category": "Mobiles",
+      "user": null
+    },
+    {
+      "id": 14,
+      "name": "Google Pixel 8",
+      "price": 850,
+      "image": "",
+      "location": "Chennai",
+      "category": "Mobiles",
+      "user": null
+    },
+    {
+      "id": 15,
+      "name": "Xiaomi 13",
+      "price": 600,
+      "image": "",
+      "location": "Hyderabad",
+      "category": "Mobiles",
+      "user": null
+    },
+    {
+      "id": 16,
+      "name": "Realme GT",
+      "price": 500,
+      "image": "",
+      "location": "Pune",
+      "category": "Mobiles",
+      "user": null
+    },
+    {
+      "id": 17,
+      "name": "Vivo X90",
+      "price": 550,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Mobiles",
+      "user": null
+    },
+    {
+      "id": 18,
+      "name": "Oppo Find X6",
+      "price": 650,
+      "image": "",
+      "location": "Kolkata",
+      "category": "Mobiles",
+      "user": null
+    },
+    {
+      "id": 19,
+      "name": "iPhone 14",
+      "price": 1100,
+      "image": "",
+      "location": "Delhi",
+      "category": "Mobiles",
+      "user": null
+    },
+    {
+      "id": 20,
+      "name": "Samsung Galaxy Note 20",
+      "price": 950,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Mobiles",
+      "user": null
+    },
+    {
+      "id": 21,
+      "name": "Adidas Ultraboost",
+      "price": 160,
+      "image": "",
+      "location": "Delhi",
+      "category": "Fashion",
+      "user": null
+    },
+    {
+      "id": 22,
+      "name": "Levi's Jeans",
+      "price": 80,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Fashion",
+      "user": null
+    },
+    {
+      "id": 23,
+      "name": "Zara Jacket",
+      "price": 120,
+      "image": "",
+      "location": "Chennai",
+      "category": "Fashion",
+      "user": null
+    },
+    {
+      "id": 24,
+      "name": "H&M T-Shirt",
+      "price": 40,
+      "image": "",
+      "location": "Hyderabad",
+      "category": "Fashion",
+      "user": null
+    },
+    {
+      "id": 25,
+      "name": "Puma Hoodie",
+      "price": 90,
+      "image": "",
+      "location": "Pune",
+      "category": "Fashion",
+      "user": null
+    },
+    {
+      "id": 26,
+      "name": "Gucci Belt",
+      "price": 200,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Fashion",
+      "user": null
+    },
+    {
+      "id": 27,
+      "name": "Louis Vuitton Bag",
+      "price": 800,
+      "image": "",
+      "location": "Delhi",
+      "category": "Fashion",
+      "user": null
+    },
+    {
+      "id": 28,
+      "name": "Ray-Ban Sunglasses",
+      "price": 150,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Fashion",
+      "user": null
+    },
+    {
+      "id": 29,
+      "name": "Rolex Watch",
+      "price": 5000,
+      "image": "",
+      "location": "Chennai",
+      "category": "Fashion",
+      "user": null
+    },
+    {
+      "id": 30,
+      "name": "Nike Air Max",
+      "price": 180,
+      "image": "",
+      "location": "Pune",
+      "category": "Fashion",
+      "user": null
+    },
+    {
+      "id": 31,
+      "name": "MacBook Pro",
+      "price": 2000,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Electronics",
+      "user": null
+    },
+    {
+      "id": 32,
+      "name": "Dell XPS 13",
+      "price": 1500,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Electronics",
+      "user": null
+    },
+    {
+      "id": 33,
+      "name": "iPad Pro",
+      "price": 1200,
+      "image": "",
+      "location": "Delhi",
+      "category": "Electronics",
+      "user": null
+    },
+    {
+      "id": 34,
+      "name": "Samsung QLED TV",
+      "price": 1000,
+      "image": "",
+      "location": "Chennai",
+      "category": "Electronics",
+      "user": null
+    },
+    {
+      "id": 35,
+      "name": "Sony Headphones",
+      "price": 200,
+      "image": "",
+      "location": "Hyderabad",
+      "category": "Electronics",
+      "user": null
+    },
+    {
+      "id": 36,
+      "name": "Canon DSLR",
+      "price": 800,
+      "image": "",
+      "location": "Pune",
+      "category": "Electronics",
+      "user": null
+    },
+    {
+      "id": 37,
+      "name": "GoPro Hero 11",
+      "price": 500,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Electronics",
+      "user": null
+    },
+    {
+      "id": 38,
+      "name": "Amazon Echo",
+      "price": 150,
+      "image": "",
+      "location": "Delhi",
+      "category": "Electronics",
+      "user": null
+    },
+    {
+      "id": 39,
+      "name": "Samsung Galaxy Tab",
+      "price": 400,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Electronics",
+      "user": null
+    },
+    {
+      "id": 40,
+      "name": "LG Refrigerator",
+      "price": 1200,
+      "image": "",
+      "location": "Chennai",
+      "category": "Electronics",
+      "user": null
+    },
+    {
+      "id": 41,
+      "name": "3BHK Apartment",
+      "price": 80000,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Houses",
+      "user": null
+    },
+    {
+      "id": 42,
+      "name": "2BHK Flat",
+      "price": 60000,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Houses",
+      "user": null
+    },
+    {
+      "id": 43,
+      "name": "Villa with Garden",
+      "price": 120000,
+      "image": "",
+      "location": "Delhi",
+      "category": "Houses",
+      "user": null
+    },
+    {
+      "id": 44,
+      "name": "Studio Apartment",
+      "price": 40000,
+      "image": "",
+      "location": "Chennai",
+      "category": "Houses",
+      "user": null
+    },
+    {
+      "id": 45,
+      "name": "Penthouse Suite",
+      "price": 150000,
+      "image": "",
+      "location": "Hyderabad",
+      "category": "Houses",
+      "user": null
+    },
+    {
+      "id": 46,
+      "name": "Independent House",
+      "price": 90000,
+      "image": "",
+      "location": "Pune",
+      "category": "Houses",
+      "user": null
+    },
+    {
+      "id": 47,
+      "name": "Bungalow",
+      "price": 130000,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Houses",
+      "user": null
+    },
+    {
+      "id": 48,
+      "name": "Row House",
+      "price": 70000,
+      "image": "",
+      "location": "Delhi",
+      "category": "Houses",
+      "user": null
+    },
+    {
+      "id": 49,
+      "name": "Duplex",
+      "price": 100000,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Houses",
+      "user": null
+    },
+    {
+      "id": 50,
+      "name": "Farmhouse",
+      "price": 140000,
+      "image": "",
+      "location": "Chennai",
+      "category": "Houses",
+      "user": null
+    },
+    {
+      "id": 51,
+      "name": "Sofa Set",
+      "price": 800,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Furniture",
+      "user": null
+    },
+    {
+      "id": 52,
+      "name": "Dining Table",
+      "price": 600,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Furniture",
+      "user": null
+    },
+    {
+      "id": 53,
+      "name": "Queen Bed",
+      "price": 400,
+      "image": "",
+      "location": "Delhi",
+      "category": "Furniture",
+      "user": null
+    },
+    {
+      "id": 54,
+      "name": "Office Chair",
+      "price": 150,
+      "image": "",
+      "location": "Chennai",
+      "category": "Furniture",
+      "user": null
+    },
+    {
+      "id": 55,
+      "name": "Wardrobe",
+      "price": 300,
+      "image": "",
+      "location": "Hyderabad",
+      "category": "Furniture",
+      "user": null
+    },
+    {
+      "id": 56,
+      "name": "Coffee Table",
+      "price": 100,
+      "image": "",
+      "location": "Pune",
+      "category": "Furniture",
+      "user": null
+    },
+    {
+      "id": 57,
+      "name": "Bookshelf",
+      "price": 120,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Furniture",
+      "user": null
+    },
+    {
+      "id": 58,
+      "name": "TV Unit",
+      "price": 250,
+      "image": "",
+      "location": "Delhi",
+      "category": "Furniture",
+      "user": null
+    },
+    {
+      "id": 59,
+      "name": "Recliner Chair",
+      "price": 350,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Furniture",
+      "user": null
+    },
+    {
+      "id": 60,
+      "name": "Bedside Table",
+      "price": 80,
+      "image": "",
+      "location": "Chennai",
+      "category": "Furniture",
+      "user": null
+    },
+    {
+      "id": 61,
+      "name": "Golden Retriever",
+      "price": 1000,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Pets",
+      "user": null
+    },
+    {
+      "id": 62,
+      "name": "Persian Cat",
+      "price": 500,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Pets",
+      "user": null
+    },
+    {
+      "id": 63,
+      "name": "Parrot",
+      "price": 150,
+      "image": "",
+      "location": "Delhi",
+      "category": "Pets",
+      "user": null
+    },
+    {
+      "id": 64,
+      "name": "Hamster",
+      "price": 20,
+      "image": "",
+      "location": "Chennai",
+      "category": "Pets",
+      "user": null
+    },
+    {
+      "id": 65,
+      "name": "Siamese Cat",
+      "price": 600,
+      "image": "",
+      "location": "Hyderabad",
+      "category": "Pets",
+      "user": null
+    },
+    {
+      "id": 66,
+      "name": "Labrador",
+      "price": 900,
+      "image": "",
+      "location": "Pune",
+      "category": "Pets",
+      "user": null
+    },
+    {
+      "id": 67,
+      "name": "Cockatiel",
+      "price": 100,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Pets",
+      "user": null
+    },
+    {
+      "id": 68,
+      "name": "Rottweiler",
+      "price": 1200,
+      "image": "",
+      "location": "Delhi",
+      "category": "Pets",
+      "user": null
+    },
+    {
+      "id": 69,
+      "name": "Budgerigar",
+      "price": 30,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Pets",
+      "user": null
+    },
+    {
+      "id": 70,
+      "name": "Siberian Husky",
+      "price": 1100,
+      "image": "",
+      "location": "Chennai",
+      "category": "Pets",
+      "user": null
+    },
+    {
+      "id": 71,
+      "name": "Harry Potter",
+      "price": 20,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Books",
+      "user": null
+    },
+    {
+      "id": 72,
+      "name": "The Alchemist",
+      "price": 15,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Books",
+      "user": null
+    },
+    {
+      "id": 73,
+      "name": "Atomic Habits",
+      "price": 18,
+      "image": "",
+      "location": "Delhi",
+      "category": "Books",
+      "user": null
+    },
+    {
+      "id": 74,
+      "name": "Rich Dad Poor Dad",
+      "price": 25,
+      "image": "",
+      "location": "Chennai",
+      "category": "Books",
+      "user": null
+    },
+    {
+      "id": 75,
+      "name": "The Great Gatsby",
+      "price": 12,
+      "image": "",
+      "location": "Hyderabad",
+      "category": "Books",
+      "user": null
+    },
+    {
+      "id": 76,
+      "name": "Think and Grow Rich",
+      "price": 20,
+      "image": "",
+      "location": "Pune",
+      "category": "Books",
+      "user": null
+    },
+    {
+      "id": 77,
+      "name": "Lord of the Rings",
+      "price": 30,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Books",
+      "user": null
+    },
+    {
+      "id": 78,
+      "name": "1984 by Orwell",
+      "price": 15,
+      "image": "",
+      "location": "Delhi",
+      "category": "Books",
+      "user": null
+    },
+    {
+      "id": 79,
+      "name": "To Kill a Mockingbird",
+      "price": 18,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Books",
+      "user": null
+    },
+    {
+      "id": 80,
+      "name": "The Hobbit",
+      "price": 20,
+      "image": "",
+      "location": "Chennai",
+      "category": "Books",
+      "user": null
+    },
+    {
+      "id": 81,
+      "name": "Football",
+      "price": 1500,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Sports",
+      "user": null
+    },
+    {
+      "id": 82,
+      "name": "Cricket Bat",
+      "price": 3000,
+      "image": "",
+      "location": "Chennai",
+      "category": "Sports",
+      "user": null
+    },
+    {
+      "id": 83,
+      "name": "Tennis Racket",
+      "price": 2000,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Sports",
+      "user": null
+    },
+    {
+      "id": 84,
+      "name": "Basketball",
+      "price": 1800,
+      "image": "",
+      "location": "Delhi",
+      "category": "Sports",
+      "user": null
+    },
+    {
+      "id": 85,
+      "name": "Hockey Stick",
+      "price": 2200,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Sports",
+      "user": null
+    },
+    {
+      "id": 86,
+      "name": "Golf Club",
+      "price": 5000,
+      "image": "",
+      "location": "Chennai",
+      "category": "Sports",
+      "user": null
+    },
+    {
+      "id": 87,
+      "name": "Badminton Racket",
+      "price": 1200,
+      "image": "",
+      "location": "Hyderabad",
+      "category": "Sports",
+      "user": null
+    },
+    {
+      "id": 88,
+      "name": "Boxing Gloves",
+      "price": 800,
+      "image": "",
+      "location": "Mumbai",
+      "category": "Sports",
+      "user": null
+    },
+    {
+      "id": 89,
+      "name": "Skateboard",
+      "price": 2500,
+      "image": "",
+      "location": "Delhi",
+      "category": "Sports",
+      "user": null
+    },
+    {
+      "id": 90,
+      "name": "Cycling Helmet",
+      "price": 1500,
+      "image": "",
+      "location": "Bangalore",
+      "category": "Sports",
+      "user": null
+    },
+    {
+      "id": 91,
+      "name": "India Gate",
+      "price": 0,
+      "image": "",
+      "location": "Delhi",
+      "category": "LandMark",
+      "user": null
+    },
+    {
+      "id": 92,
+      "name": "Gateway of India",
+      "price": 0,
+      "image": "",
+      "location": "Mumbai",
+      "category": "LandMark",
+      "user": null
+    },
+    {
+      "id": 93,
+      "name": "Charminar",
+      "price": 0,
+      "image": "",
+      "location": "Hyderabad",
+      "category": "LandMark",
+      "user": null
+    },
+    {
+      "id": 94,
+      "name": "Red Fort",
+      "price": 0,
+      "image": "",
+      "location": "Delhi",
+      "category": "LandMark",
+      "user": null
+    },
+    {
+      "id": 95,
+      "name": "Qutub Minar",
+      "price": 0,
+      "image": "",
+      "location": "Delhi",
+      "category": "LandMark",
+      "user": null
+    },
+    {
+      "id": 96,
+      "name": "Hawa Mahal",
+      "price": 0,
+      "image": "",
+      "location": "Jaipur",
+      "category": "LandMark",
+      "user": null
+    },
+    {
+      "id": 97,
+      "name": "Mysore Palace",
+      "price": 0,
+      "image": "",
+      "location": "Bangalore",
+      "category": "LandMark",
+      "user": null
+    },
+    {
+      "id": 98,
+      "name": "Lotus Temple",
+      "price": 0,
+      "image": "",
+      "location": "Delhi",
+      "category": "LandMark",
+      "user": null
+    },
+    {
+      "id": 99,
+      "name": "Victoria Memorial",
+      "price": 0,
+      "image": "",
+      "location": "Kolkata",
+      "category": "LandMark",
+      "user": null
+    },
+    {
+      "id": 100,
+      "name": "Charminar Clock Tower",
+      "price": 0,
+      "image": "",
+      "location": "Hyderabad",
+      "category": "LandMark",
+      "user": null
+    },
+    {
+      "name": "hbkfdjlk",
+      "price": "8775",
+      "image": "bsdvskhjb",
+      "location": "457",
+      "category": "Cars",
+      "details": "uhfeljhiu",
+      "user": null,
+      "id": 101
+    },
+    {
+      "name": "bdbd",
+      "price": "0",
+      "image": "mdmd",
+      "location": "012",
+      "category": "Mobiles",
+      "details": "dmdmdmd",
+      "user": null,
+      "id": 102
+    }
+  ],
+  "user":[
+    {
+      "user":1,
+      "email":"e@g",
+      "pass":12
+    }
+  ]
+}
